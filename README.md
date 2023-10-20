@@ -1,4 +1,4 @@
-### Hi there 👋, my name is Eran Kampf
+### Hi 👋, I'm Eran Kampf
 20+ years professional experience as a software developer.\
 Director of Engineering at [Twingate](https://www.twingate.com).\
 Previously founded [Monday.com](https://www.monday.com),\
