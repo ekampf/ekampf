@@ -1,4 +1,6 @@
 <div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Engineering+Leader+%40+Twingate;Monday.com+Co-Founder;20%2B+Years+Building+Products;Scaling+Teams+%26+Technology;Zero+Trust+Security+Advocate" alt="Typing SVG" />
+
   <h1>👋 Hi, I'm Eran Kampf</h1>
   <h3>Engineering Leader | Startup Founder | Technology Enthusiast</h3>
 </div>
