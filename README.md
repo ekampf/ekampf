@@ -20,12 +20,13 @@ Frontend:       React, Next.js
 Leadership:     Engineering Management, Architecture, Team Building
 ```
 
-## 📊 GitHub Stats
+## 💡 Highlights
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ekampf&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Eran's GitHub Stats" height="165">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ekampf&theme=tokyonight&hide_border=true" alt="Eran's GitHub Streak" height="165">
-</div>
+- 🏢 **Founded** a company that became a multi-billion dollar unicorn (Monday.com)
+- 👥 Led engineering teams through hypergrowth phases
+- 🔐 Building next-gen Zero Trust security solutions at Twingate
+- 🌍 Advised multiple successful startups in scaling their engineering orgs
+- 📱 Early mobile and analytics space pioneer (Onavo, Snaptu, SimilarWeb)
 
 ## 📝 Latest Writing
 
